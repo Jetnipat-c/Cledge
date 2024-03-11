@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "a6cc53a6ac3ba5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a92c2c2d7a6b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71ac303308e6cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Riverpod, Clean Architecture,.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edbec826cf40fc34",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9072847d433fd87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d3b8180a96722f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a5f7de129c007c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "549c7f44d5b4af8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d19efeba1adba86",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9a880d39db7e5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5964574330b5207a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter/Riverpod, Clean Architecture,.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba3163c81394f106",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter/Riverpod, Clean Architecture,.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a661b89fa199758d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39e78418d89ec8c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter/Riverpod, Clean Architecture,.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "d71ac303308e6cd9",
+  "lastOpenFiles": [
+    "Pasted image 20240311142052.png",
+    "Flutter/Riverpod, Clean Architecture,.md",
+    "Flutter",
+    "create a link.md"
+  ]
+}
