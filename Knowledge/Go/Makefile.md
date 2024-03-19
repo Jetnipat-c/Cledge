@@ -14,3 +14,7 @@ make migration-create name=initial
 Creating migration
 2024/03/19 11:15:06 Created new file: internal/db/schema/migrations/20240319041506_initial.sql
 ```
+**Include** คือการโหลดตัวแปรจากไฟล์
+```makefile
+include .env
+```

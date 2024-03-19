@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Go/Air.md",
+                "file": "Knowledge/Go/Makefile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Go/Air.md",
+                "file": "Knowledge/Go/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Go/Air.md",
+                "file": "Knowledge/Go/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Go/Air.md"
+                "file": "Knowledge/Go/Makefile.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "68c8fb600301c671",
   "lastOpenFiles": [
-    "Knowledge/Go/Makefile.md",
     "Knowledge/Go/Overview Go.md",
+    "Knowledge/Go/Makefile.md",
+    "Knowledge/Go/Air.md",
     "Knowledge/Go/Go clean architecture POC.md",
     "Knowledge/Go/Goose.md",
-    "Knowledge/Go/Air.md",
     "Knowledge/Go/Go Backend Clean Architecture.md",
     "Knowledge/Flutter/Riverpod, Clean Architecture.md",
     "Pasted image 20240318140645.png",
