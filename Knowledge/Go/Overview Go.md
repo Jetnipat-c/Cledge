@@ -1,5 +1,5 @@
 [[Air]]
 [[Go Backend Clean Architecture]]
-[[Go-clean-architecture-poc]]
+[[Go clean architecture POC]]
 [[Goose]]
 [[Makefile]]
